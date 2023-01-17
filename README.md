@@ -5,3 +5,6 @@
 
 Pet project made with https://github.com/Ichi-cat
                       https://github.com/Vanmaru
+                      
+![image](https://user-images.githubusercontent.com/75914175/212893229-a758b17f-61d7-49f0-903f-33b5f28e0246.png)
+![image](https://user-images.githubusercontent.com/75914175/212893653-74aaa92a-8f9a-466d-a42a-d3c024a3d176.png)
